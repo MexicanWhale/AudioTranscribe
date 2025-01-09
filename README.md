@@ -1,3 +1,10 @@
+<div align="center">
+  <img src="assets/mexicanwhale.png" alt="MexicanWhale Logo" width="1280">
+  
+  <h1>AudioTranscribe</h1>
+  <h3>A Python tool for transcribing audio files with timestamps using OpenAI's Whisper model</h3>
+</div>
+
 # Audio Transcriber
 
 A Free Python tool for transcribing audio files with timestamps using OpenAI's Whisper model. 
