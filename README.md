@@ -1,6 +1,7 @@
 # Audio Transcriber
 
-A Python tool for transcribing audio files with timestamps using OpenAI's Whisper model. 
+A Free Python tool for transcribing audio files with timestamps using OpenAI's Whisper model. 
+Created to help with the creation of SwiftUI audio maps. Because why pay for services when you can do it yourself?
 Created by [https://x.com/Mexican_Whale](https://x.com/Mexican_Whale)
 
 ## Features
